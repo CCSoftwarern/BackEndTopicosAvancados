@@ -166,3 +166,4 @@ H:\exemplo02\obj\Debug\net10.0\exemplo02.pdb
 H:\exemplo02\obj\Debug\net10.0\exemplo02.genruntimeconfig.cache
 H:\exemplo02\obj\Debug\net10.0\ref\exemplo02.dll
 H:\exemplo02\bin\Debug\net10.0\BCrypt-Net-Next.dll
+H:\exemplo02\obj\Debug\net10.0\exemplo02.sourcelink.json
