@@ -19,6 +19,8 @@ public class Users
 
     public bool Active { get; set; }
 
+    public int Tipo { get; set; } = 1; // 1 = Padrão | 2 = Administrador
+
     public DateTime Created_at { get; set; }
 
     public DateTime Updated_at { get; set; }

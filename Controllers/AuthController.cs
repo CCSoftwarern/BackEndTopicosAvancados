@@ -34,7 +34,8 @@ public class AuthController(AppDbContext context) : ControllerBase
             id = user.Id,
             email = user.Email,
             name = user.Name,
-            active = user.Active
+            active = user.Active,
+            tipo = user.Tipo // 1 = Padrão | 2 = Administrador
         };
 
         return Ok(result);
